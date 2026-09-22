@@ -1,4 +1,5 @@
-### Senior Full Stack Developer | TypeScript · Node.js · React · AWS
+
+# Senior Full Stack Developer | TypeScript · Node.js · React · AWS
 
 Senior Full Stack Developer with **11+ years of experience** building scalable web applications, backend services, APIs, and distributed systems across e-commerce, telecommunications, fintech, SaaS, and restaurant technology.
 
